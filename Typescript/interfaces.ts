@@ -20,4 +20,4 @@ class UserDetails implements User {
 const userType : User = {username: 'praveen', bio :'hii'}
 
 const user1 = new UserDetails(userType,20,"sikar")
-console.log(user1);
+console.log(user1); 

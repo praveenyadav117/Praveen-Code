@@ -21,3 +21,5 @@ const userType : User = {username: 'praveen', bio :'hii'}
 
 const user1 = new UserDetails(userType,20,"sikar")
 console.log(user1);
+const user2  = new UserDetails(userType,20,"alwar")
+console.log(user1);

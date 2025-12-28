@@ -27,4 +27,7 @@ console.log("menu33333=====",menu, res1);
 
 const cities : readonly string[] = ['delhi','pune'];
 
+const example : Array<string | number> = ["testuing",20] // strinhg[] || number[]
+
+
 

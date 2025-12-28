@@ -19,7 +19,9 @@ console.log(priceMaxhine(10));
 interface User{
     name:string
 }
-interface User {
+interface User { 
+    // 12965953
+    // 9525446228
     age:number
 }
 
